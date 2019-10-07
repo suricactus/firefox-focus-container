@@ -1,0 +1,28 @@
+.context-item {
+  color: red;
+}
+
+.hidden {
+  display: none;
+}
+
+.text-right {
+  text-align: right;
+}
+
+#context-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+#context-list .context-item {
+  
+}
+
+
+#context-list .context-item svg {
+  width: 48px;
+  height: 48px;
+}
